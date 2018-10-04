@@ -1,4 +1,4 @@
-// PHP Script which takes in the values from indexcgpa form to calculate the CGPA
+// PHP Script which takes in the values from indexcgpa form to calculate the GPA
 <?php 
 $i=0;
 $num=$denum=0;
